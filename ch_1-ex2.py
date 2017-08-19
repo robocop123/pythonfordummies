@@ -1,7 +1,8 @@
-a = 2
 
-while a < 1000:
-    
+a = 2
+ending = 1000
+
+while a < ending:    
     print("This is a: " + str(a))
     a = a+1
 
