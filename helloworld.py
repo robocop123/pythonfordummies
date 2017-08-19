@@ -1,2 +1,2 @@
-print("hekko world")
-print("hgvguh")
+print("hello world")
+print("sup")
